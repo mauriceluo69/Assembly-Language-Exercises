@@ -8,7 +8,7 @@ Assembly language exercises for Microcomputer System and Interface Technique (5t
 
 **IDE**: emu8086
 
-*I didn't test in MASM, though emu8086 has several foibles... *
+*I didn't test in MASM, though emu8086 has several foibles...*
 
 ## Others...
 
